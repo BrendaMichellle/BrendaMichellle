@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I like to read, travel and I am the worst cook. 
 
 ## Contact 
-<a href="https://brendamichellle.com/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1302/1302960.svg" alt="website logo" width="40px"/> <span style="text-decoration: none; color: #303030; font-weight: bold;">Website</span></a> 
+[Website](https://brendamichellle.com/) [Twitter](https://twitter.com/MichellleBrenda)
 <br>
 <br>
 
@@ -26,7 +26,7 @@
 [Visit My Youtube Channel](https://www.youtube.com/channel/UCCbwmyG1DlUxjYkPLIA9qzA)
 <br>
 <br>
-[<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT1.png" height= "120">](https://www.youtube.com/watch?v=wm9QUcxlPaI&t=139s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT2.png" height= "120">](https://www.youtube.com/watch?v=DfEic9lvkkg&t=398s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT3.png" height= "120">](https://www.youtube.com/watch?v=YyxeaeXLHww&t=242s)
+[<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT1.png" height= "140">](https://www.youtube.com/watch?v=wm9QUcxlPaI&t=139s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT2.png" height= "140">](https://www.youtube.com/watch?v=DfEic9lvkkg&t=398s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT3.png" height= "140">](https://www.youtube.com/watch?v=YyxeaeXLHww&t=242s)
 
 ### Blog Posts 
 [Visit Blog](https://blog.brendamichellle.com/)
