@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/githubGif.gif" width= "950">
+<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/githubGif.gif" width= "900">
 
 ## Skills 
 * HTML 
@@ -9,7 +7,7 @@
 * Wordpress 
 * Bootstrap 
 
-
+## Get to Know Me 
 - 🔭 I’m currently working on becoming a Full Stack Developer 
 - 🌱 I’m currently learning ReactJS and always learning Javascript 
 - 👯 I’m looking to collaborate on web development projects 
@@ -18,7 +16,7 @@
 - ⚡ Fun fact: I like to read, travel and I am the worst cook. 
 
 ## Contact 
-<a href="https://brendamichellle.com/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1302/1302960.svg" alt="website logo" width="40px"/> <span style="text-decoration: none; color: black; font-weight: bold;">Website</span></a> 
+<a href="https://brendamichellle.com/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1302/1302960.svg" alt="website logo" width="40px"/> <span style="text-decoration: none; color: #303030; font-weight: bold;">Website</span></a> 
 <br>
 <br>
 
@@ -27,10 +25,12 @@
 ### Youtube 
 [Visit My Youtube Channel](https://www.youtube.com/channel/UCCbwmyG1DlUxjYkPLIA9qzA)
 <br>
-[<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT1.png" height= "100">](https://www.youtube.com/watch?v=wm9QUcxlPaI&t=139s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT2.png" height= "100">](https://www.youtube.com/watch?v=DfEic9lvkkg&t=398s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT3.png" height= "100">](https://www.youtube.com/watch?v=YyxeaeXLHww&t=242s)
+<br>
+[<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT1.png" height= "120">](https://www.youtube.com/watch?v=wm9QUcxlPaI&t=139s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT2.png" height= "120">](https://www.youtube.com/watch?v=DfEic9lvkkg&t=398s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT3.png" height= "120">](https://www.youtube.com/watch?v=YyxeaeXLHww&t=242s)
 
 ### Blog Posts 
 [Visit Blog](https://blog.brendamichellle.com/)
+<br>
 <br>
 ["How I Learned to Code for Free and Why You Should As Well"](https://blog.brendamichellle.com/how-i-learned-to-code-for-free-and-why-you-should-as-well)
 <br>
