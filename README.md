@@ -16,20 +16,20 @@
 - ⚡ Fun fact: I like to read, travel and I am the worst cook. 
 
 ## Contact 
-[Website](https://brendamichellle.com/) [Twitter](https://twitter.com/MichellleBrenda)
+💻 [Website](https://brendamichellle.com/) 🐦 [Twitter](https://twitter.com/MichellleBrenda)
 <br>
 <br>
 
 ## Content 
 
 ### Youtube 
-[Visit My Youtube Channel](https://www.youtube.com/channel/UCCbwmyG1DlUxjYkPLIA9qzA)
+🎥 [Visit My Youtube Channel](https://www.youtube.com/channel/UCCbwmyG1DlUxjYkPLIA9qzA)
 <br>
 <br>
 [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT1.png" height= "140">](https://www.youtube.com/watch?v=wm9QUcxlPaI&t=139s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT2.png" height= "140">](https://www.youtube.com/watch?v=DfEic9lvkkg&t=398s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT3.png" height= "140">](https://www.youtube.com/watch?v=YyxeaeXLHww&t=242s)
 
 ### Blog Posts 
-[Visit Blog](https://blog.brendamichellle.com/)
+💬 [Visit Blog](https://blog.brendamichellle.com/)
 <br>
 <br>
 ["How I Learned to Code for Free and Why You Should As Well"](https://blog.brendamichellle.com/how-i-learned-to-code-for-free-and-why-you-should-as-well)
