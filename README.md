@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/githubGif.gif" width= "250">
-
-## Brenda Michelle 
-Front end developer currently self-learning Full stack development. I enjoy learning and creating content around tech and lifestyle. 
+<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/githubGif.gif" width= "950">
 
 ## Skills 
 * HTML 
@@ -29,12 +26,16 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 
 ### Youtube 
 [Visit My Youtube Channel](https://www.youtube.com/channel/UCCbwmyG1DlUxjYkPLIA9qzA)
-[<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT1.png" height= "40">](https://www.youtube.com/watch?v=wm9QUcxlPaI&t=139s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT2.png" height= "40">](https://www.youtube.com/watch?v=DfEic9lvkkg&t=398s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT3.png" height= "40">](https://www.youtube.com/watch?v=YyxeaeXLHww&t=242s)
+<br>
+[<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT1.png" height= "100">](https://www.youtube.com/watch?v=wm9QUcxlPaI&t=139s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT2.png" height= "100">](https://www.youtube.com/watch?v=DfEic9lvkkg&t=398s) [<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/YT3.png" height= "100">](https://www.youtube.com/watch?v=YyxeaeXLHww&t=242s)
 
 ### Blog Posts 
 [Visit Blog](https://blog.brendamichellle.com/)
-
+<br>
 ["How I Learned to Code for Free and Why You Should As Well"](https://blog.brendamichellle.com/how-i-learned-to-code-for-free-and-why-you-should-as-well)
+<br>
 ["How to View Your Live Localhost From Your Laptop on Your Mobile Device"](https://blog.brendamichellle.com/how-to-view-your-live-localhost-from-your-laptop-on-your-mobile-device)
+<br>
 ["Stop Memorizing! : The #1 Advice I Wish Someone Would Have Told Me"](https://blog.brendamichellle.com/stop-memorizing-the-1-advice-i-wish-someone-would-have-told-me)
+<br>
 ["How to Think of Personal Project Ideas"](https://blog.brendamichellle.com/how-to-think-of-personal-project-ideas)
