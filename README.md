@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**BrendaMichellle/BrendaMichellle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img src"https://github.com/BrendaMichellle/BrendaMichellle/blob/main/githubGif.gif" width= "250">
 
 ## Brenda Michelle 
@@ -24,4 +21,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about front end development  
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I like to read, travel and I am the worst cook. 
--->
