@@ -1,4 +1,4 @@
-<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/githubGif.gif" height="450" width= "900">
+<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/gitprofgif2.gif" width= "900">
 
 ## Skills 
 * HTML 
