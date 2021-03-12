@@ -6,6 +6,8 @@
 * Javascript 
 * Wordpress 
 * Bootstrap 
+* ReactJS
+* Figma
 
 ## Get to Know Me 
 - 🔭 I’m currently working on becoming a Full Stack Developer 
