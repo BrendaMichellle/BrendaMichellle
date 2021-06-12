@@ -3,6 +3,7 @@
 ## Skills 
 * HTML 
 * CSS 
+* SASS / SCSS
 * Javascript 
 * Wordpress 
 * Bootstrap 
