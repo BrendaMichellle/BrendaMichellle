@@ -1,4 +1,3 @@
-<img src="https://github.com/BrendaMichellle/BrendaMichellle/blob/main/gitprofgif2.gif" width= "900">
 
 ## Skills 
 * HTML 
@@ -8,6 +7,7 @@
 * Wordpress 
 * Bootstrap 
 * ReactJS
+* Styled Components 
 * Figma
 
 ## Get to Know Me 
