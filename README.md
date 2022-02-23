@@ -1,30 +1,39 @@
+## Hi! I am Brenda 👩🏻‍💻 
+Front end web developer originally from California. I am passionate about developing the best user experience through front end development. 
+Love to learn and discover new things. As a self-taught developer, I am a fast and very resourceful learner. I can work well independently or on a team. I enjoy encouraging and advocating for women in tech. As well as making tech and careers in tech more attainable and accessible. 
+<br>**Pronouns**: *she/her*
 
-## Skills 
-* HTML 
-* CSS 
-* SASS / SCSS
-* Javascript 
-* Wordpress 
-* Bootstrap 
-* ReactJS
-* Styled Components 
-* Figma
 
-## Get to Know Me 
-- 🔭 I’m currently working on becoming a Full Stack Developer 
-- 🌱 I’m currently learning ReactJS and always learning Javascript 
-- 👯 I’m looking to collaborate on web development projects 
-- 💬 Ask me about front end development  
-- 😄 Pronouns: she/her 
-- ⚡ Fun fact: I like to read, travel and I am the worst cook. 
 
-## Contact 
-💻 [Website](https://brendamichellle.com/) 🐦 [Twitter](https://twitter.com/MichellleBrenda)
-<br>
-<br>
+<div align="left">
+  <a href="https://twitter.com/MichellleBrenda">
+    <img src="https://img.shields.io/twitter/follow/MichellleBrenda" />
+  </a>
+  
+  <a href="https://www.instagram.com/brendamichellle/">
+    <img src="https://img.shields.io/badge/BrendaMichellle-Instagram-pink" />
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCCbwmyG1DlUxjYkPLIA9qzA">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCCbwmyG1DlUxjYkPLIA9qzA?label=BrendaMichelleTech&style=social" />
+  </a>
+</div>
+
+-------------------
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=brendamichellle&show_icons=true&theme=tokyonight" />
+</div>
+
+    
+### Skills & Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40px" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
 
 ## Content 
-
 ### Youtube 
 🎥 [Visit My Youtube Channel](https://www.youtube.com/channel/UCCbwmyG1DlUxjYkPLIA9qzA)
 <br>
